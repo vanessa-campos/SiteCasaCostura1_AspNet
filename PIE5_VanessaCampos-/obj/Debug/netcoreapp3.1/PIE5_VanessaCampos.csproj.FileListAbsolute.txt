@@ -1,0 +1,191 @@
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfoInputs.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfo.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CoreCompileInputs.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.MvcApplicationPartsAssemblyInfo.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.json
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.exe
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.deps.json
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.json
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.dev.json
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.input.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.output.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorCoreGenerate.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Carrinho.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Exclusivos.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Produtos.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CopyComplete
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE5_VanessaCampos.StaticWebAssets.Manifest.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE5_VanessaCampos.StaticWebAssets.xml
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.genruntimeconfig.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\appsettings.json
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.StaticWebAssets.xml
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.exe
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.deps.json
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.json
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.dev.json
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.AssemblyReference.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfoInputs.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfo.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CoreCompileInputs.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.MvcApplicationPartsAssemblyInfo.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\staticwebassets\PIE5_VanessaCampos.StaticWebAssets.Manifest.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.input.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.output.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorCoreGenerate.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Carrinho.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Exclusivos.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Produtos.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cache
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CopyComplete
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.genruntimeconfig.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.AssemblyReference.cache
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.GeneratedMSBuildEditorConfig.editorconfig
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\scopedcss\bundle\PIE5_VanessaCampos.styles.css
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editar.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AdminRequired.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editar.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AdminRequired.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+H:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MinhaConta.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Orcamento.cshtml.g.cs
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+I:\Meu Drive\Senac-EAD\TII\MB.UC08 - Projeto Integrador Desenvolvedor Web\Etapa 5\PIE5_VanessaCampos\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.exe
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.deps.json
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.json
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.runtimeconfig.dev.json
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.File.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.AssemblyReference.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfoInputs.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.AssemblyInfo.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CoreCompileInputs.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorAssemblyInfo.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\staticwebassets\PIE5_VanessaCampos.StaticWebAssets.Manifest.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\staticwebassets\PIE5_VanessaCampos.StaticWebAssets.xml
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\scopedcss\bundle\PIE5_VanessaCampos.styles.css
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.input.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.TagHelpers.output.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorCoreGenerate.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Carrinho.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Exclusivos.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Orcamento.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Carrinho\Produtos.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Editar.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Home\Servicos.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\AdminRequired.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Edicao.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Excluir.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Listagem.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\MinhaConta.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\_FormCadastro.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cache
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.RazorTargetAssemblyInfo.cs
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.Views.pdb
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.csproj.CopyComplete
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.dll
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.pdb
+D:\Vanessa Campos\Desktop\PIE5_VanessaCampos-\obj\Debug\netcoreapp3.1\PIE5_VanessaCampos.genruntimeconfig.cache
